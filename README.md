@@ -16,7 +16,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:5
 #EXT-X-MEDIA-SEQUENCE:0
-#EXTINF:-1 tvg-logo="http://109.199.125.71/wp-content/uploads/2024/06/qZPLK5ktRKa3CL4sKRZtj8UlPYc-170x255.jpg group-title="new 2024", Under Paris (2024))
+#EXTINF:-1 tvg-logo="http://109.199.125.71/wp-content/uploads/2024/06/qZPLK5ktRKa3CL4sKRZtj8UlPYc-170x255.jpg" group-title="new 2024", Under Paris (2024))
 https://hls43-eu.zcdn.stream/5880b2e327f1e9a564800389cdb772e8/2024-06-06/1080.m3u8
 
 #EXTM3U
