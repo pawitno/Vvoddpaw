@@ -1,3 +1,18 @@
+<meta charset="UTF-8" content="text/html"/>
+<meta name="robots" content="noindex, nofollow"/>
+
+<html>
+    <head>
+        <title>iptv.urfan.web.id</title>
+    </head>
+    <body>
+<video autoplay muted loop id="iptv.urfan.web.id">
+  <source src="https://iptv.urfan.web.id/info.m3u8" type="video/mp4">
+  <center>
+	    <br/>
+        <p><h2>iptv.urfan.web.id</h2></p>
+
+
 
 -----------------------------------------------ACTION------------------------------------------------------------
 
