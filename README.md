@@ -1,3 +1,21 @@
+<meta charset="UTF-8" content="text/html"/>
+<meta name="viewport" content="width = device-width, initial-scale = 1"/>
+<meta name="robots" content="noindex, nofollow"/>
+<meta http-equiv="refresh" content="0; url = https://urfan.web.id"/>
+
+<html>
+    <head>
+        <title>iptv.urfan.web.id</title>
+    </head>
+    <body>
+    </body>
+    <div style="display:none;">
+</html>
+
+
+
+
+
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> LOKAL ID Auto
 //========================================================================
